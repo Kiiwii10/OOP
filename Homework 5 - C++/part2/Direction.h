@@ -1,0 +1,8 @@
+#ifndef PART2_OOP5DIRECTIONH
+#define PART2_OOP5DIRECTIONH
+
+enum Direction{
+    UP, DOWN, LEFT, RIGHT
+};
+
+#endif // PART2_OOP5DIRECTIONH
